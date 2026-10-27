@@ -95,6 +95,7 @@ section {
   font-size: 14px;
   border: none;
   border-radius: 8px;
+  text-decoration: none;
 }
 .ton:hover {
   padding: 8px 20px;
